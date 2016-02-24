@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openrdf.sesame:sesame-sail-inferencer:2.7.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-sail-inferencer/2.7.13/95d9cdbdf9934316c394173b409b8628e03ad3b2/sesame-sail-inferencer-2.7.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-sail-inferencer/2.7.13/a7b5b948ab5d5d9ef040810e6f6bd5f9fc7d4bd9/sesame-sail-inferencer-2.7.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

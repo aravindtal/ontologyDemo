@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tinkerpop.blueprints:blueprints-core:2.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tinkerpop.blueprints/blueprints-core/2.5.0/4b103bec23a541b31e8af1d5f3b50692835c6184/blueprints-core-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tinkerpop.blueprints/blueprints-core/2.5.0/7fdd69cfa73a1407ff7bad328e0186d3edc2f4f5/blueprints-core-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

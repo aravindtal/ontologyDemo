@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tinkerpop.rexster:rexster-core:2.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tinkerpop.rexster/rexster-core/2.5.0/f1ed44da93c0813f6e060cf27410d7619e6f31fd/rexster-core-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tinkerpop.rexster/rexster-core/2.5.0/26e7920809039d9804f8c2df439ab893fe056aff/rexster-core-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
